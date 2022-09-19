@@ -25,7 +25,7 @@ apt update ; apt install git -y ; git clone https://github.com/Varun114-Techno/h
 ```
 <br>
 <p align="center">
-<img src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/host.png"/>
+<img src="https://raw.githubusercontent.com/Varun114-Techno/host/main/Screenshot_20220919-191526.png"/>
 
 ### <<< If you copy , Then Give me The Credits >>>
 
