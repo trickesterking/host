@@ -14,7 +14,7 @@
 
 * `apt update`
 * `apt install git -y`
-* `git clone https://github.com/Varun114-Techno/host.git`
+* `git clone https://github.com/trickesterking/host.git`
 * `cd host`
 
 #### > Run : `bash host.sh`
