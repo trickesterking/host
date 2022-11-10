@@ -2,7 +2,7 @@
 <a href="#"><img title="Host" src="https://raw.githubusercontent.com/htr-tech/release-download/master/images/banner/host.png"></a>
 </p>
 <p align="center">
-<a href="https://github.com/Varun114-Techno"><img title="Author" src="https://img.shields.io/badge/Author-varun114--techno-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/trickesterking"><img title="Author" src="https://img.shields.io/badge/Author-varun114--techno-red.svg?style=for-the-badge&logo=github"></a>
 <a href="#"><img title="Open Source" src="https://img.shields.io/badge/Open%20Source-%E2%9D%A4-green?style=for-the-badge"></a>
 </p>
 <p align="center">
